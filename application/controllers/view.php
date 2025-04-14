@@ -1,0 +1,22 @@
+Create View view_notification AS (SELECT (tc.customer_id) AS id,CONCAT(tc.f_name,' ',tc.m_name,' ', tc.l_name) AS name, (tc.email) AS email, (tc.mobile) AS mobile, (tc.created_on) AS not_date, (tc.display) AS display, (tc.customer_photo) AS photo,(tc.modified_on) AS ord_comp, ('customer') AS tbl,tc.created_by as created_by FROM tbl_customer tc where tc.display='Y')
+union 
+(SELECT (tp.payment_id) AS id,(tp.customer_name) AS name, (tp.membership_plan) AS email, (tp.mobile) AS mobile, (tp.created_on) AS not_date, (tp.display) AS display, (tp.membership_amt) AS photo,(tp.transcation_id) AS ord_comp, ('payment') AS tbl,tp.customer_name as created_by FROM tbl_payment_details tp where tp.display='Y') order by not_date DESC LIMIT 10
+
+Create View view_custoer AS (SELECT tc.*,tf.profile_name,tm.marital_name,tca.cast_name,tsc.sub_cast_name,tx.complexion_name,tr.rashi_name,tn.nakshtra_name,tch.charan_name,tg.gan_name,tna.nadi_name,tma.mangal_name,te.education_name,toc.city_name as occupation_city_name,tpc.city_name as parent_residence_city_name,tnc.city_name as native_district_name,tnc1.city_name as native_city_name,tec.cast_name as expected_cast_name,tee.education_name as expected_education_name,GROUP_CONCAT(DISTINCT tecc.city_name) AS preffered_city_name,tem.mangal_name as expected_mangal_name, floor(datediff(curdate(),tc.dob) / 365) as age FROM tbl_customer tc left join tbl_profile tf on tf.profile_id=tc.profile_for left join tbl_marital tm on tm.marital_id=tc.marital_status left join tbl_cast tca on tca.cast_id=tc.caste left join tbl_sub_cast tsc on tsc.sub_cast_id=tc.sub_caste left join tbl_complexion tx on tx.complexion_id=tc.complexion left join tbl_rashi tr on tr.rashi_id=tc.rashi left join tbl_nakshtra tn on tn.nakshtra_id=tc.nakshtra  left join tbl_charan tch on tch.charan_id=tc.charan left join tbl_gan tg on tg.gan_id=tc.gan left join tbl_nadi tna on tna.nadi_id=tc.nadi left join tbl_mangal tma on tma.mangal_id=tc.mangal  left join tbl_education te on te.education_id=tc.education left join tbl_city toc on toc.city_id=tc.occupation_city left join tbl_city tpc on tpc.city_id=tc.parent_residence_city left join tbl_city tnc on tnc.city_id=tc.native_district left join tbl_city tnc1 on tnc1.city_id=tc.native_city left join tbl_cast tec on tec.cast_id=tc.expected_cast left join tbl_education tee on tee.education_id=tc.expected_education left join tbl_city tecc on FIND_IN_SET(tecc.city_id,tc.preffered_city) left join tbl_mangal tem on tem.mangal_id=tc.expected_mangal WHERE  tc.display ='Y' group by tc.customer_id)
+
+
+SELECT * FROM `tbl_inbox` as tbi left join view_custoer tv on (IF(send_by = 4, send_to, send_by)) = tv.customer_id where (send_by=4 or send_to=4) group by send_by,send_to   ORDER BY inbox_id desc
+
+SELECT * FROM (SELECT * FROM tbl_inbox ORDER BY inbox_id DESC) AS x GROUP BY send_by
+
+
+<!-- 
+Create View view_sub_admin AS (SELECT (tc.user_id) AS id, (tc.role_id) AS role_id, CONCAT(tc.user_fname,' ',tc.user_lname) AS name, (tc.user_email) AS email, (tc.user_mobile) AS mobile, (tc.created_on) AS not_date, (tc.display) AS display, (tc.modified_on) AS ord_comp, ('sub_admin') AS tbl,tc.created_by as created_by FROM tbl_userinfo tc where tc.display='Y')
+union 
+(SELECT (tp.payment_id) AS id,(tp.customer_name) AS name, (tp.membership_plan) AS email, (tp.mobile) AS mobile, (tp.created_on) AS not_date, (tp.display) AS display, (tp.membership_amt) AS photo,(tp.transcation_id) AS ord_comp, ('payment') AS tbl,tp.customer_name as created_by FROM tbl_payment_details tp where tp.display='Y') order by not_date DESC LIMIT 10 -->
+
+***** sub admin view ******
+
+Create View view_notification AS (SELECT (tc.customer_id) AS id,CONCAT(tc.f_name,' ',tc.m_name,' ', tc.l_name) AS name, (tc.email) AS email, (tc.mobile) AS mobile, (tc.created_on) AS not_date, (tc.display) AS display, (tc.customer_photo) AS photo,(tc.modified_on) AS ord_comp, ('customer') AS tbl,tc.created_by as created_by, tc.user_id as user_id FROM tbl_customer tc where tc.display='Y')
+union 
+(SELECT (tp.payment_id) AS id,(tp.customer_name) AS name, (tp.membership_plan) AS email, (tp.mobile) AS mobile, (tp.created_on) AS not_date, (tp.display) AS display, (tp.membership_amt) AS photo,(tp.transcation_id) AS ord_comp, ('payment') AS tbl,tp.customer_name as created_by,tp.user_id as user_id FROM tbl_payment_details tp where tp.display='Y') order by not_date DESC LIMIT 10
