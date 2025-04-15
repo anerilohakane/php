@@ -11,3 +11,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |	http://codeigniter.com/user_guide/general/hooks.html
 |
 */
+
+// Register error handler hook
+$hook['pre_system'][] = array(
+    'class'    => 'ErrorHandler',
+    'function' => 'handle_errors',
+    'filename' => 'error_handler.php',
+    'filepath' => 'hooks'
+);

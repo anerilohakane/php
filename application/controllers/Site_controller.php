@@ -16,6 +16,16 @@ class Site_controller extends CI_Controller {
 
 	    $value = base_url();
 
+	    
+
+	    // Load session library first
+
+	    $this->load->library('session');
+
+	    
+
+	    // Then load other dependencies
+
 	    $this->load->library("email_sent");
 
 	    $this->load->model('common_model');
@@ -25,6 +35,8 @@ class Site_controller extends CI_Controller {
 	    $this->load->library('Report_creation');
 
         $this->load->library('TransactionResponse');
+
+	    
 
 	    setcookie("shivbandh",$value, time()+3600*24,'/'); 
 
