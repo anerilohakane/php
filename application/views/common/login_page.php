@@ -256,6 +256,14 @@ $(document).on('click','#forget-password',function(e){
 
 </script>
 <!-- END JAVASCRIPTS -->
+<script>
+// Debug script
+console.log('Login page loaded');
+window.onerror = function(msg, url, lineNo, columnNo, error) {
+    console.error('Error: ' + msg + '\nURL: ' + url + '\nLine: ' + lineNo + '\nColumn: ' + columnNo + '\nError object: ' + JSON.stringify(error));
+    return false;
+};
+</script>
 </body>
 <!-- END BODY -->
 </html>

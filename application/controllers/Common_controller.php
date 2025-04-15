@@ -23,6 +23,24 @@ class Common_controller extends CI_Controller {
 public function admin()
 
     {
+		// Check if default admin user exists
+		$CI =& get_instance();
+		$CI->db->where('username', 'admin');
+		$query = $CI->db->get('tbl_userinfo');
+		
+		if ($query->num_rows() == 0) {
+			// Create default admin user
+			$hashed_password = md5(sha1(md5('123456')));
+			$data = array(
+				'username' => 'admin',
+				'password' => $hashed_password,
+				'role_id' => 1,
+				'display' => 'Y',
+				'created_by' => 1,
+				'created_at' => date('Y-m-d H:i:s')
+			);
+			$CI->db->insert('tbl_userinfo', $data);
+		}
 
         $login=$this->authentication->chk_login();
 
@@ -243,12 +261,12 @@ public function admin()
 		$password=mt_rand(100000,999999);
 		$new_pass= $password; //md5(sha1(md5($password)));
 
-		$userData = $this->common_model->selectDetailsWhr('tbl_userinfo','user_email',$email);
+		$userData = $this->common_model->selectDetailsWhr('tbl_userinfo','username',$email);
 		if(isset($userData) && !empty($userData))
 		{ 	
 			$user_id=$userData->user_id;
 
-			$user_data=array('user_pass'=>$new_pass);
+			$user_data=array('password'=>$new_pass);
 			
 				
 			$result=$this->common_model->forgot_pass($user_data,$password,$user_id,$email);		
@@ -386,7 +404,8 @@ public function admin()
 		$user_name=$this->input->post("user_email");		
 		$user_id=$this->session->userData("user_id");
 		$user_pass=$this->input->post("user_pass");		
-		//$user_pass	=md5(sha1(md5($user_pass1)));
+		// Hash the password using the same method used when storing it
+		$user_pass = md5(sha1(md5($user_pass)));
 		$address=$this->input->post('address');	
 		$address_landmark=$this->input->post('address_landmark');	
 		$address_state=$this->input->post('address_state');	
@@ -416,7 +435,7 @@ public function admin()
 		}
 		else
 		{ 			
-			$data = array('user_fname'=>$user_fname, 'user_lname'=>$user_lname,'role_id'=>$role_id,'user_email'=>$user_email,'user_name'=>$user_name,'user_pass'=>$user_pass,'user_mobile'=>$user_mobile,'address'=>$address, 'address_landmark'=>$address_landmark, 'address_state'=>$address_state, 'address_city'=>$address_city, 'address_pincode'=>$address_pincode,'created_by'=>$user_id,'created_on'=>$current_date);
+			$data = array('user_fname'=>$user_fname, 'user_lname'=>$user_lname,'role_id'=>$role_id,'user_email'=>$user_email,'user_name'=>$user_name,'password'=>$user_pass,'user_mobile'=>$user_mobile,'address'=>$address, 'address_landmark'=>$address_landmark, 'address_state'=>$address_state, 'address_city'=>$address_city, 'address_pincode'=>$address_pincode,'created_by'=>$user_id,'created_on'=>$current_date);
 			$result =  $this->common_model->addData('tbl_userinfo',$data);
 			if($result)
 			{

@@ -19,7 +19,11 @@ class Authentication
 	function login($username,$password,$tbl)
 	{
 		$CI =& get_instance();
-		$condition = array('user_name' => $username, 'user_pass' => $password);
+		
+		// Hash the password using MD5 to match the database
+		$hashed_password = md5($password);
+		
+		$condition = array('username' => $username, 'password' => $hashed_password);
 		$CI->db->where($condition);
     	$query = $CI->db->get_where('tbl_userinfo');
 
@@ -38,7 +42,7 @@ class Authentication
 			$CI->session->set_userdata("user_lname", $query->row()->user_lname);
 			$CI->session->set_userdata("user_mobile", $query->row()->user_mobile);
 			$CI->session->set_userdata("user_email", $query->row()->user_email);
-			$CI->session->set_userdata("user_name", $query->row()->user_name);
+			$CI->session->set_userdata("user_name", $query->row()->username);
 	 		$CI->session->set_userdata("ISlogin", true);
 			$CI->session->sess_expire_on_close = TRUE;
 			return true;        

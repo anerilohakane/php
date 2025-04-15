@@ -538,7 +538,7 @@ class Admin_model extends CI_Model {
 
     {
 
-        $query=$this->db->query("SELECT DATE(created_on) as pay_date, SUM(membership_amt) as total_amount FROM tbl_payment_details WHERE display='Y' GROUP BY DATE(created_on) order by pay_date desc limit 10");
+        $query=$this->db->query("SELECT DATE(created_on) as pay_date, SUM(CASE WHEN pay_type='Online' THEN membership_amt ELSE 0 END) as 'online_totle', SUM(CASE WHEN pay_type='offline' THEN membership_amt ELSE 0 END) as 'offline_totle' FROM tbl_payment_details WHERE display='Y' GROUP BY DATE(created_on) order by pay_date desc  limit 10 ");
 
         if($query->num_rows()>0)
 
@@ -562,7 +562,7 @@ class Admin_model extends CI_Model {
 
     {
 
-        $query=$this->db->query("SELECT DATE(created_on) as pay_date, SUM(membership_amt) as total_amount FROM tbl_payment_details WHERE display='Y' and user_id=? GROUP BY DATE(created_on) order by pay_date desc limit 10 ",array($user_id));
+        $query=$this->db->query("SELECT DATE(created_on) as pay_date, SUM(CASE WHEN pay_type='Online' THEN membership_amt ELSE 0 END) as 'online_totle', SUM(CASE WHEN pay_type='offline' THEN membership_amt ELSE 0 END) as 'offline_totle' FROM tbl_payment_details WHERE display='Y' and user_id=? GROUP BY DATE(created_on) order by pay_date desc  limit 10 ",array($user_id));
 
         if($query->num_rows()>0)
 
@@ -574,7 +574,7 @@ class Admin_model extends CI_Model {
 
         {
 
-            return array();
+            return null;
 
         }
 
@@ -1041,41 +1041,7 @@ class Admin_model extends CI_Model {
     }
 
     public function fetch_accepted_request1($customer_id,$status)
+
     {  
-        $query=$this->db->query("SELECT tr1.*,tc.* FROM tbl_request tr1 left join view_custoer tc on tc.customer_id=tr1.requested_by  WHERE  tr1.display ='Y' AND tr1.modified_by=? AND tr1.status=? ",array($customer_id,$status));
+
         
-        if($query->num_rows() > 0)
-        {
-            foreach ($query->result() as $row)
-            {
-                $tbl_data[]=$row;
-            }
-            return $tbl_data;
-        }
-        else
-        {
-            return false;
-        }
-    }
-
-    public function news_data()
-    {
-        $query=$this->db->query("SELECT * FROM tbl_news WHERE display='Y' ORDER BY news_id DESC LIMIT 5");
-        
-        if($query->num_rows() > 0)
-        {
-            foreach ($query->result() as $row)
-            {
-                $tbl_data[]=$row;
-            }
-            return $tbl_data;
-        }
-        else
-        {
-            return array();
-        }
-    }
-
-}
-
-
