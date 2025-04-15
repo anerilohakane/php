@@ -1410,3 +1410,1609 @@ INFO - 2025-04-15 07:47:52 --> Controller Class Initialized
 DEBUG - 2025-04-15 11:17:52 --> Session class already loaded. Second attempt ignored.
 DEBUG - 2025-04-15 11:17:52 --> Report_creation class already loaded. Second attempt ignored.
 ERROR - 2025-04-15 11:17:52 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:51:40 --> Config Class Initialized
+INFO - 2025-04-15 07:51:40 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:51:40 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:51:40 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:51:40 --> URI Class Initialized
+DEBUG - 2025-04-15 07:51:40 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:51:40 --> Router Class Initialized
+INFO - 2025-04-15 07:51:40 --> Output Class Initialized
+INFO - 2025-04-15 07:51:40 --> Security Class Initialized
+DEBUG - 2025-04-15 07:51:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:51:40 --> Input Class Initialized
+INFO - 2025-04-15 07:51:40 --> Language Class Initialized
+INFO - 2025-04-15 07:51:40 --> Loader Class Initialized
+INFO - 2025-04-15 07:51:40 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:51:40 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:51:40 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:51:40 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:51:40 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:51:40 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:51:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:51:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:51:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:40 --> Cart Class Initialized
+INFO - 2025-04-15 07:51:40 --> Model Class Initialized
+INFO - 2025-04-15 07:51:40 --> Model Class Initialized
+INFO - 2025-04-15 07:51:40 --> Model Class Initialized
+INFO - 2025-04-15 07:51:40 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:21:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:21:40 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:21:40 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:51:41 --> Config Class Initialized
+INFO - 2025-04-15 07:51:41 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:51:41 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:51:41 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:51:41 --> URI Class Initialized
+DEBUG - 2025-04-15 07:51:41 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:51:41 --> Router Class Initialized
+INFO - 2025-04-15 07:51:41 --> Output Class Initialized
+INFO - 2025-04-15 07:51:41 --> Security Class Initialized
+DEBUG - 2025-04-15 07:51:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:51:41 --> Input Class Initialized
+INFO - 2025-04-15 07:51:41 --> Language Class Initialized
+INFO - 2025-04-15 07:51:41 --> Loader Class Initialized
+INFO - 2025-04-15 07:51:41 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:51:41 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:51:41 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:51:41 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:51:41 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:51:41 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:51:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:51:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:51:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:41 --> Cart Class Initialized
+INFO - 2025-04-15 07:51:41 --> Model Class Initialized
+INFO - 2025-04-15 07:51:41 --> Model Class Initialized
+INFO - 2025-04-15 07:51:41 --> Model Class Initialized
+INFO - 2025-04-15 07:51:41 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:21:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:21:41 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:21:41 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:51:42 --> Config Class Initialized
+INFO - 2025-04-15 07:51:42 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:51:42 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:51:42 --> URI Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:51:42 --> Router Class Initialized
+INFO - 2025-04-15 07:51:42 --> Output Class Initialized
+INFO - 2025-04-15 07:51:42 --> Security Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:51:42 --> Input Class Initialized
+INFO - 2025-04-15 07:51:42 --> Language Class Initialized
+INFO - 2025-04-15 07:51:42 --> Loader Class Initialized
+INFO - 2025-04-15 07:51:42 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:51:42 --> Database Driver Class Initialized
+INFO - 2025-04-15 07:51:42 --> Config Class Initialized
+INFO - 2025-04-15 07:51:42 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:51:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:51:42 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:51:42 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:51:42 --> URI Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:42 --> Cart Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:51:42 --> Router Class Initialized
+INFO - 2025-04-15 07:51:42 --> Output Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Security Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:51:42 --> Input Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Controller Class Initialized
+INFO - 2025-04-15 07:51:42 --> Language Class Initialized
+DEBUG - 2025-04-15 11:21:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:21:42 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:42 --> Loader Class Initialized
+ERROR - 2025-04-15 11:21:42 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:51:42 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:51:42 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:51:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:51:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:42 --> Cart Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:21:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:21:42 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:21:42 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:51:42 --> Config Class Initialized
+INFO - 2025-04-15 07:51:42 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:51:42 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:51:42 --> URI Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:51:42 --> Router Class Initialized
+INFO - 2025-04-15 07:51:42 --> Output Class Initialized
+INFO - 2025-04-15 07:51:42 --> Security Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:51:42 --> Input Class Initialized
+INFO - 2025-04-15 07:51:42 --> Language Class Initialized
+INFO - 2025-04-15 07:51:42 --> Loader Class Initialized
+INFO - 2025-04-15 07:51:42 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:51:42 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:51:42 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:51:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:51:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:51:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:42 --> Cart Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Model Class Initialized
+INFO - 2025-04-15 07:51:42 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:21:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:21:42 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:21:42 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:51:43 --> Config Class Initialized
+INFO - 2025-04-15 07:51:43 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:51:43 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:51:43 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:51:43 --> URI Class Initialized
+DEBUG - 2025-04-15 07:51:43 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:51:43 --> Router Class Initialized
+INFO - 2025-04-15 07:51:43 --> Output Class Initialized
+INFO - 2025-04-15 07:51:43 --> Security Class Initialized
+DEBUG - 2025-04-15 07:51:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:51:43 --> Input Class Initialized
+INFO - 2025-04-15 07:51:43 --> Language Class Initialized
+INFO - 2025-04-15 07:51:43 --> Loader Class Initialized
+INFO - 2025-04-15 07:51:43 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:51:43 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:51:43 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:51:43 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:51:43 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:51:43 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:51:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:51:43 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:51:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:51:43 --> Cart Class Initialized
+INFO - 2025-04-15 07:51:43 --> Model Class Initialized
+INFO - 2025-04-15 07:51:43 --> Model Class Initialized
+INFO - 2025-04-15 07:51:43 --> Model Class Initialized
+INFO - 2025-04-15 07:51:43 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:21:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:21:43 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:21:43 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:02 --> Config Class Initialized
+INFO - 2025-04-15 07:55:02 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:02 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:02 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:02 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:02 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:02 --> Router Class Initialized
+INFO - 2025-04-15 07:55:02 --> Output Class Initialized
+INFO - 2025-04-15 07:55:02 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:02 --> Input Class Initialized
+INFO - 2025-04-15 07:55:02 --> Language Class Initialized
+INFO - 2025-04-15 07:55:02 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:02 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:02 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:02 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:02 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:02 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:02 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:02 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:02 --> Model Class Initialized
+INFO - 2025-04-15 07:55:02 --> Model Class Initialized
+INFO - 2025-04-15 07:55:02 --> Model Class Initialized
+INFO - 2025-04-15 07:55:02 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:02 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:02 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:04 --> Config Class Initialized
+INFO - 2025-04-15 07:55:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:04 --> Router Class Initialized
+INFO - 2025-04-15 07:55:04 --> Output Class Initialized
+INFO - 2025-04-15 07:55:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:04 --> Input Class Initialized
+INFO - 2025-04-15 07:55:04 --> Language Class Initialized
+INFO - 2025-04-15 07:55:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:04 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:04 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:04 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:04 --> Config Class Initialized
+INFO - 2025-04-15 07:55:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:04 --> Router Class Initialized
+INFO - 2025-04-15 07:55:04 --> Output Class Initialized
+INFO - 2025-04-15 07:55:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:04 --> Input Class Initialized
+INFO - 2025-04-15 07:55:04 --> Language Class Initialized
+INFO - 2025-04-15 07:55:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:04 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:04 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:04 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:04 --> Config Class Initialized
+INFO - 2025-04-15 07:55:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:04 --> Router Class Initialized
+INFO - 2025-04-15 07:55:04 --> Output Class Initialized
+INFO - 2025-04-15 07:55:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:04 --> Input Class Initialized
+INFO - 2025-04-15 07:55:04 --> Language Class Initialized
+INFO - 2025-04-15 07:55:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:04 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:04 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:04 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:04 --> Config Class Initialized
+INFO - 2025-04-15 07:55:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:04 --> Router Class Initialized
+INFO - 2025-04-15 07:55:04 --> Output Class Initialized
+INFO - 2025-04-15 07:55:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:04 --> Input Class Initialized
+INFO - 2025-04-15 07:55:04 --> Language Class Initialized
+INFO - 2025-04-15 07:55:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:04 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:04 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:04 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:04 --> Config Class Initialized
+INFO - 2025-04-15 07:55:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:04 --> Router Class Initialized
+INFO - 2025-04-15 07:55:04 --> Output Class Initialized
+INFO - 2025-04-15 07:55:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:04 --> Input Class Initialized
+INFO - 2025-04-15 07:55:04 --> Language Class Initialized
+INFO - 2025-04-15 07:55:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:04 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Model Class Initialized
+INFO - 2025-04-15 07:55:04 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:04 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:04 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:55:05 --> Config Class Initialized
+INFO - 2025-04-15 07:55:05 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:55:05 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:55:05 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:55:05 --> URI Class Initialized
+DEBUG - 2025-04-15 07:55:05 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:55:05 --> Router Class Initialized
+INFO - 2025-04-15 07:55:05 --> Output Class Initialized
+INFO - 2025-04-15 07:55:05 --> Security Class Initialized
+DEBUG - 2025-04-15 07:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:55:05 --> Input Class Initialized
+INFO - 2025-04-15 07:55:05 --> Language Class Initialized
+INFO - 2025-04-15 07:55:05 --> Loader Class Initialized
+INFO - 2025-04-15 07:55:05 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:55:05 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:55:05 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:55:05 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:55:05 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:55:05 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:55:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:55:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:55:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:55:05 --> Cart Class Initialized
+INFO - 2025-04-15 07:55:05 --> Model Class Initialized
+INFO - 2025-04-15 07:55:05 --> Model Class Initialized
+INFO - 2025-04-15 07:55:05 --> Model Class Initialized
+INFO - 2025-04-15 07:55:05 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:25:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:25:05 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:25:05 --> Severity: error --> Exception: Table 'shivbandhan.tbl_success_story' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:57:03 --> Config Class Initialized
+INFO - 2025-04-15 07:57:03 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:57:03 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:57:03 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:57:03 --> URI Class Initialized
+DEBUG - 2025-04-15 07:57:03 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:57:03 --> Router Class Initialized
+INFO - 2025-04-15 07:57:03 --> Output Class Initialized
+INFO - 2025-04-15 07:57:03 --> Security Class Initialized
+DEBUG - 2025-04-15 07:57:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:57:03 --> Input Class Initialized
+INFO - 2025-04-15 07:57:03 --> Language Class Initialized
+INFO - 2025-04-15 07:57:03 --> Loader Class Initialized
+INFO - 2025-04-15 07:57:03 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:57:03 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:57:03 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:57:03 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:57:03 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:57:03 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:57:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:57:03 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:57:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:03 --> Cart Class Initialized
+INFO - 2025-04-15 07:57:03 --> Model Class Initialized
+INFO - 2025-04-15 07:57:03 --> Model Class Initialized
+INFO - 2025-04-15 07:57:03 --> Model Class Initialized
+INFO - 2025-04-15 07:57:03 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:27:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:27:03 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:27:03 --> Severity: error --> Exception: Unknown column 'success_story_id' in 'order clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:57:04 --> Config Class Initialized
+INFO - 2025-04-15 07:57:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:57:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:57:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:57:04 --> Router Class Initialized
+INFO - 2025-04-15 07:57:04 --> Output Class Initialized
+INFO - 2025-04-15 07:57:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:57:04 --> Input Class Initialized
+INFO - 2025-04-15 07:57:04 --> Language Class Initialized
+INFO - 2025-04-15 07:57:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:57:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:57:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:57:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:57:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:04 --> Cart Class Initialized
+INFO - 2025-04-15 07:57:04 --> Model Class Initialized
+INFO - 2025-04-15 07:57:04 --> Model Class Initialized
+INFO - 2025-04-15 07:57:04 --> Model Class Initialized
+INFO - 2025-04-15 07:57:04 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:27:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:27:04 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:27:04 --> Severity: error --> Exception: Unknown column 'success_story_id' in 'order clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:57:04 --> Config Class Initialized
+INFO - 2025-04-15 07:57:04 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:57:04 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:57:04 --> URI Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:57:04 --> Router Class Initialized
+INFO - 2025-04-15 07:57:04 --> Output Class Initialized
+INFO - 2025-04-15 07:57:04 --> Security Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:57:04 --> Input Class Initialized
+INFO - 2025-04-15 07:57:04 --> Language Class Initialized
+INFO - 2025-04-15 07:57:04 --> Loader Class Initialized
+INFO - 2025-04-15 07:57:04 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:57:04 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:57:04 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:57:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:57:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-15 07:57:05 --> Config Class Initialized
+INFO - 2025-04-15 07:57:05 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:05 --> Cart Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:57:05 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> URI Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:57:05 --> Controller Class Initialized
+INFO - 2025-04-15 07:57:05 --> Router Class Initialized
+DEBUG - 2025-04-15 11:27:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:27:05 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:05 --> Output Class Initialized
+INFO - 2025-04-15 07:57:05 --> Security Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:57:05 --> Input Class Initialized
+ERROR - 2025-04-15 11:27:05 --> Severity: error --> Exception: Unknown column 'success_story_id' in 'order clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:57:05 --> Language Class Initialized
+INFO - 2025-04-15 07:57:05 --> Loader Class Initialized
+INFO - 2025-04-15 07:57:05 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:57:05 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:57:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:57:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:05 --> Cart Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:27:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:27:05 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:27:05 --> Severity: error --> Exception: Unknown column 'success_story_id' in 'order clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:57:05 --> Config Class Initialized
+INFO - 2025-04-15 07:57:05 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:57:05 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:57:05 --> URI Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:57:05 --> Router Class Initialized
+INFO - 2025-04-15 07:57:05 --> Output Class Initialized
+INFO - 2025-04-15 07:57:05 --> Security Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:57:05 --> Input Class Initialized
+INFO - 2025-04-15 07:57:05 --> Language Class Initialized
+INFO - 2025-04-15 07:57:05 --> Loader Class Initialized
+INFO - 2025-04-15 07:57:05 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:57:05 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:57:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:57:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:05 --> Cart Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:27:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:27:05 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:27:05 --> Severity: error --> Exception: Unknown column 'success_story_id' in 'order clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:57:05 --> Config Class Initialized
+INFO - 2025-04-15 07:57:05 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:57:05 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:57:05 --> URI Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:57:05 --> Router Class Initialized
+INFO - 2025-04-15 07:57:05 --> Output Class Initialized
+INFO - 2025-04-15 07:57:05 --> Security Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:57:05 --> Input Class Initialized
+INFO - 2025-04-15 07:57:05 --> Language Class Initialized
+INFO - 2025-04-15 07:57:05 --> Loader Class Initialized
+INFO - 2025-04-15 07:57:05 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:57:05 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:57:05 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:57:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:57:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:57:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:57:05 --> Cart Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Model Class Initialized
+INFO - 2025-04-15 07:57:05 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:27:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:27:05 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:27:05 --> Severity: error --> Exception: Unknown column 'success_story_id' in 'order clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:07 --> Config Class Initialized
+INFO - 2025-04-15 07:59:07 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:07 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:07 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:07 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:07 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:07 --> Router Class Initialized
+INFO - 2025-04-15 07:59:07 --> Output Class Initialized
+INFO - 2025-04-15 07:59:07 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:07 --> Input Class Initialized
+INFO - 2025-04-15 07:59:07 --> Language Class Initialized
+INFO - 2025-04-15 07:59:07 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:07 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:07 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:07 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:07 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:07 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:07 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:07 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:07 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:07 --> Model Class Initialized
+INFO - 2025-04-15 07:59:07 --> Model Class Initialized
+INFO - 2025-04-15 07:59:07 --> Model Class Initialized
+INFO - 2025-04-15 07:59:07 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:07 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:07 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:40 --> Config Class Initialized
+INFO - 2025-04-15 07:59:40 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:40 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:40 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:40 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:40 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:40 --> Router Class Initialized
+INFO - 2025-04-15 07:59:40 --> Output Class Initialized
+INFO - 2025-04-15 07:59:40 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:40 --> Input Class Initialized
+INFO - 2025-04-15 07:59:40 --> Language Class Initialized
+INFO - 2025-04-15 07:59:40 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:40 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:40 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:40 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:40 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:40 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:40 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:41 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:41 --> Model Class Initialized
+INFO - 2025-04-15 07:59:41 --> Model Class Initialized
+INFO - 2025-04-15 07:59:41 --> Model Class Initialized
+INFO - 2025-04-15 07:59:41 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:41 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:41 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:43 --> Config Class Initialized
+INFO - 2025-04-15 07:59:43 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:43 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:43 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:43 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:43 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:43 --> Router Class Initialized
+INFO - 2025-04-15 07:59:43 --> Output Class Initialized
+INFO - 2025-04-15 07:59:43 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:43 --> Input Class Initialized
+INFO - 2025-04-15 07:59:43 --> Language Class Initialized
+INFO - 2025-04-15 07:59:43 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:43 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:43 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:43 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:43 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:43 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:43 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:43 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:43 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:43 --> Model Class Initialized
+INFO - 2025-04-15 07:59:43 --> Model Class Initialized
+INFO - 2025-04-15 07:59:43 --> Model Class Initialized
+INFO - 2025-04-15 07:59:43 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:43 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:43 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:43 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:44 --> Config Class Initialized
+INFO - 2025-04-15 07:59:44 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:44 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:44 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:44 --> Router Class Initialized
+INFO - 2025-04-15 07:59:44 --> Output Class Initialized
+INFO - 2025-04-15 07:59:44 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:44 --> Input Class Initialized
+INFO - 2025-04-15 07:59:44 --> Language Class Initialized
+INFO - 2025-04-15 07:59:44 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:44 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:44 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:44 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:44 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:44 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:44 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:44 --> Config Class Initialized
+INFO - 2025-04-15 07:59:44 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:44 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:44 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:44 --> Router Class Initialized
+INFO - 2025-04-15 07:59:44 --> Output Class Initialized
+INFO - 2025-04-15 07:59:44 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:44 --> Input Class Initialized
+INFO - 2025-04-15 07:59:44 --> Language Class Initialized
+INFO - 2025-04-15 07:59:44 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:44 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:44 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:44 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:44 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:44 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:44 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:44 --> Config Class Initialized
+INFO - 2025-04-15 07:59:44 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:44 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:44 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:44 --> Router Class Initialized
+INFO - 2025-04-15 07:59:44 --> Output Class Initialized
+INFO - 2025-04-15 07:59:44 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:44 --> Input Class Initialized
+INFO - 2025-04-15 07:59:44 --> Language Class Initialized
+INFO - 2025-04-15 07:59:44 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:44 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:44 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:44 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:44 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:44 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:44 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:44 --> Config Class Initialized
+INFO - 2025-04-15 07:59:44 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:44 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:44 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:44 --> Router Class Initialized
+INFO - 2025-04-15 07:59:44 --> Output Class Initialized
+INFO - 2025-04-15 07:59:44 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:44 --> Input Class Initialized
+INFO - 2025-04-15 07:59:44 --> Language Class Initialized
+INFO - 2025-04-15 07:59:44 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:44 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:44 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:44 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:44 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:44 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Model Class Initialized
+INFO - 2025-04-15 07:59:44 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:44 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:45 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:45 --> Config Class Initialized
+INFO - 2025-04-15 07:59:45 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:45 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:45 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:45 --> Router Class Initialized
+INFO - 2025-04-15 07:59:45 --> Output Class Initialized
+INFO - 2025-04-15 07:59:45 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:45 --> Input Class Initialized
+INFO - 2025-04-15 07:59:45 --> Language Class Initialized
+INFO - 2025-04-15 07:59:45 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:45 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:45 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:45 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:45 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:45 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:45 --> Config Class Initialized
+INFO - 2025-04-15 07:59:45 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:45 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:45 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:45 --> Router Class Initialized
+INFO - 2025-04-15 07:59:45 --> Output Class Initialized
+INFO - 2025-04-15 07:59:45 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:45 --> Input Class Initialized
+INFO - 2025-04-15 07:59:45 --> Language Class Initialized
+INFO - 2025-04-15 07:59:45 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:45 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:45 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:45 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:45 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:45 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:45 --> Config Class Initialized
+INFO - 2025-04-15 07:59:45 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:45 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:45 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:45 --> Router Class Initialized
+INFO - 2025-04-15 07:59:45 --> Output Class Initialized
+INFO - 2025-04-15 07:59:45 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:45 --> Input Class Initialized
+INFO - 2025-04-15 07:59:45 --> Language Class Initialized
+INFO - 2025-04-15 07:59:45 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:45 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:45 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:45 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:45 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:45 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:45 --> Config Class Initialized
+INFO - 2025-04-15 07:59:45 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:45 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:45 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:45 --> Router Class Initialized
+INFO - 2025-04-15 07:59:45 --> Output Class Initialized
+INFO - 2025-04-15 07:59:45 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:45 --> Input Class Initialized
+INFO - 2025-04-15 07:59:45 --> Language Class Initialized
+INFO - 2025-04-15 07:59:45 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:45 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:45 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:45 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:45 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:45 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 07:59:45 --> Config Class Initialized
+INFO - 2025-04-15 07:59:45 --> Hooks Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> UTF-8 Support Enabled
+INFO - 2025-04-15 07:59:45 --> Utf8 Class Initialized
+INFO - 2025-04-15 07:59:45 --> URI Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> No URI present. Default controller set.
+INFO - 2025-04-15 07:59:45 --> Router Class Initialized
+INFO - 2025-04-15 07:59:45 --> Output Class Initialized
+INFO - 2025-04-15 07:59:45 --> Security Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 07:59:45 --> Input Class Initialized
+INFO - 2025-04-15 07:59:45 --> Language Class Initialized
+INFO - 2025-04-15 07:59:45 --> Loader Class Initialized
+INFO - 2025-04-15 07:59:45 --> Helper loaded: url_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: file_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: form_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 07:59:45 --> Helper loaded: sms_helper
+INFO - 2025-04-15 07:59:45 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 07:59:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 07:59:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 07:59:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 07:59:45 --> Cart Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Model Class Initialized
+INFO - 2025-04-15 07:59:45 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:29:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:29:45 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:29:45 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:15 --> Config Class Initialized
+INFO - 2025-04-15 08:00:15 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:16 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:16 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:16 --> Router Class Initialized
+INFO - 2025-04-15 08:00:16 --> Output Class Initialized
+INFO - 2025-04-15 08:00:16 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:16 --> Input Class Initialized
+INFO - 2025-04-15 08:00:16 --> Language Class Initialized
+INFO - 2025-04-15 08:00:16 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:16 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:16 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:16 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:16 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:16 --> Model Class Initialized
+INFO - 2025-04-15 08:00:16 --> Model Class Initialized
+INFO - 2025-04-15 08:00:16 --> Model Class Initialized
+INFO - 2025-04-15 08:00:16 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:16 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:16 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:16 --> Config Class Initialized
+INFO - 2025-04-15 08:00:16 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:16 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:16 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:16 --> Router Class Initialized
+INFO - 2025-04-15 08:00:16 --> Output Class Initialized
+INFO - 2025-04-15 08:00:16 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:16 --> Input Class Initialized
+INFO - 2025-04-15 08:00:16 --> Language Class Initialized
+INFO - 2025-04-15 08:00:16 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:16 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:16 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:16 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:16 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:16 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:16 --> Model Class Initialized
+INFO - 2025-04-15 08:00:16 --> Model Class Initialized
+INFO - 2025-04-15 08:00:16 --> Model Class Initialized
+INFO - 2025-04-15 08:00:16 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:16 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:16 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:17 --> Config Class Initialized
+INFO - 2025-04-15 08:00:17 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:17 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:17 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:17 --> Router Class Initialized
+INFO - 2025-04-15 08:00:17 --> Output Class Initialized
+INFO - 2025-04-15 08:00:17 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:17 --> Input Class Initialized
+INFO - 2025-04-15 08:00:17 --> Language Class Initialized
+INFO - 2025-04-15 08:00:17 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:17 --> Config Class Initialized
+INFO - 2025-04-15 08:00:17 --> Hooks Class Initialized
+INFO - 2025-04-15 08:00:17 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:17 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:17 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:17 --> Router Class Initialized
+INFO - 2025-04-15 08:00:17 --> Output Class Initialized
+INFO - 2025-04-15 08:00:17 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:17 --> Input Class Initialized
+INFO - 2025-04-15 08:00:17 --> Language Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:17 --> Session: Class initialized using 'files' driver.
+INFO - 2025-04-15 08:00:17 --> Loader Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:17 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:17 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:17 --> Database Driver Class Initialized
+ERROR - 2025-04-15 11:30:17 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+DEBUG - 2025-04-15 08:00:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:17 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:17 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:17 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:17 --> Config Class Initialized
+INFO - 2025-04-15 08:00:17 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:17 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:17 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:17 --> Router Class Initialized
+INFO - 2025-04-15 08:00:17 --> Output Class Initialized
+INFO - 2025-04-15 08:00:17 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:17 --> Input Class Initialized
+INFO - 2025-04-15 08:00:17 --> Language Class Initialized
+INFO - 2025-04-15 08:00:17 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:17 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:17 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:17 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:17 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:17 --> Config Class Initialized
+INFO - 2025-04-15 08:00:17 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:17 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:17 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:17 --> Router Class Initialized
+INFO - 2025-04-15 08:00:17 --> Output Class Initialized
+INFO - 2025-04-15 08:00:17 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:17 --> Input Class Initialized
+INFO - 2025-04-15 08:00:17 --> Language Class Initialized
+INFO - 2025-04-15 08:00:17 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:17 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:17 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:17 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:17 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:17 --> Config Class Initialized
+INFO - 2025-04-15 08:00:17 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:17 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:17 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:17 --> Router Class Initialized
+INFO - 2025-04-15 08:00:17 --> Output Class Initialized
+INFO - 2025-04-15 08:00:17 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:17 --> Input Class Initialized
+INFO - 2025-04-15 08:00:17 --> Language Class Initialized
+INFO - 2025-04-15 08:00:17 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:17 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:17 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:17 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:17 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Model Class Initialized
+INFO - 2025-04-15 08:00:17 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:17 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:17 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:18 --> Config Class Initialized
+INFO - 2025-04-15 08:00:18 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:18 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:18 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:18 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:18 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:18 --> Router Class Initialized
+INFO - 2025-04-15 08:00:18 --> Output Class Initialized
+INFO - 2025-04-15 08:00:18 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:18 --> Input Class Initialized
+INFO - 2025-04-15 08:00:18 --> Language Class Initialized
+INFO - 2025-04-15 08:00:18 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:18 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:18 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:18 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:18 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:18 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:18 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:18 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:18 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:18 --> Model Class Initialized
+INFO - 2025-04-15 08:00:18 --> Model Class Initialized
+INFO - 2025-04-15 08:00:18 --> Model Class Initialized
+INFO - 2025-04-15 08:00:18 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:18 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:18 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:51 --> Config Class Initialized
+INFO - 2025-04-15 08:00:51 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:51 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:51 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:51 --> Router Class Initialized
+INFO - 2025-04-15 08:00:51 --> Output Class Initialized
+INFO - 2025-04-15 08:00:51 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:51 --> Input Class Initialized
+INFO - 2025-04-15 08:00:51 --> Language Class Initialized
+INFO - 2025-04-15 08:00:51 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:51 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:51 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:51 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:51 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:51 --> Model Class Initialized
+INFO - 2025-04-15 08:00:51 --> Model Class Initialized
+INFO - 2025-04-15 08:00:51 --> Model Class Initialized
+INFO - 2025-04-15 08:00:51 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:51 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:51 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:51 --> Config Class Initialized
+INFO - 2025-04-15 08:00:51 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:51 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:51 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:51 --> Router Class Initialized
+INFO - 2025-04-15 08:00:51 --> Output Class Initialized
+INFO - 2025-04-15 08:00:51 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:51 --> Input Class Initialized
+INFO - 2025-04-15 08:00:51 --> Language Class Initialized
+INFO - 2025-04-15 08:00:51 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:51 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:51 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:51 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:51 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:51 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:51 --> Model Class Initialized
+INFO - 2025-04-15 08:00:51 --> Model Class Initialized
+INFO - 2025-04-15 08:00:51 --> Model Class Initialized
+INFO - 2025-04-15 08:00:51 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:51 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:51 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:52 --> Config Class Initialized
+INFO - 2025-04-15 08:00:52 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:52 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:52 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:52 --> Router Class Initialized
+INFO - 2025-04-15 08:00:52 --> Output Class Initialized
+INFO - 2025-04-15 08:00:52 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:52 --> Input Class Initialized
+INFO - 2025-04-15 08:00:52 --> Language Class Initialized
+INFO - 2025-04-15 08:00:52 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:52 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:52 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:52 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:52 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:52 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:52 --> Config Class Initialized
+INFO - 2025-04-15 08:00:52 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:52 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:52 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:52 --> Router Class Initialized
+INFO - 2025-04-15 08:00:52 --> Output Class Initialized
+INFO - 2025-04-15 08:00:52 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:52 --> Input Class Initialized
+INFO - 2025-04-15 08:00:52 --> Language Class Initialized
+INFO - 2025-04-15 08:00:52 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:52 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:52 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:52 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:52 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:52 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:00:52 --> Config Class Initialized
+INFO - 2025-04-15 08:00:52 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:00:52 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:00:52 --> URI Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:00:52 --> Router Class Initialized
+INFO - 2025-04-15 08:00:52 --> Output Class Initialized
+INFO - 2025-04-15 08:00:52 --> Security Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:00:52 --> Input Class Initialized
+INFO - 2025-04-15 08:00:52 --> Language Class Initialized
+INFO - 2025-04-15 08:00:52 --> Loader Class Initialized
+INFO - 2025-04-15 08:00:52 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:00:52 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:00:52 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:00:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:00:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:00:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:00:52 --> Cart Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Model Class Initialized
+INFO - 2025-04-15 08:00:52 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:30:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:30:52 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:30:52 --> Severity: error --> Exception: Table 'shivbandhan.tbl_inspiral' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:01:21 --> Config Class Initialized
+INFO - 2025-04-15 08:01:21 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:01:21 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:01:21 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:01:21 --> URI Class Initialized
+DEBUG - 2025-04-15 08:01:21 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:01:21 --> Router Class Initialized
+INFO - 2025-04-15 08:01:21 --> Output Class Initialized
+INFO - 2025-04-15 08:01:21 --> Security Class Initialized
+DEBUG - 2025-04-15 08:01:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:01:21 --> Input Class Initialized
+INFO - 2025-04-15 08:01:21 --> Language Class Initialized
+INFO - 2025-04-15 08:01:21 --> Loader Class Initialized
+INFO - 2025-04-15 08:01:21 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:01:21 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:01:21 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:01:21 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:01:21 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:01:21 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:01:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:01:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:01:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:01:21 --> Cart Class Initialized
+INFO - 2025-04-15 08:01:21 --> Model Class Initialized
+INFO - 2025-04-15 08:01:21 --> Model Class Initialized
+INFO - 2025-04-15 08:01:21 --> Model Class Initialized
+INFO - 2025-04-15 08:01:21 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:31:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:31:21 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:31:21 --> Severity: error --> Exception: Table 'shivbandhan.tbl_news' doesn't exist C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:02:03 --> Config Class Initialized
+INFO - 2025-04-15 08:02:03 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:02:03 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:02:03 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:02:03 --> URI Class Initialized
+DEBUG - 2025-04-15 08:02:03 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:02:03 --> Router Class Initialized
+INFO - 2025-04-15 08:02:03 --> Output Class Initialized
+INFO - 2025-04-15 08:02:03 --> Security Class Initialized
+DEBUG - 2025-04-15 08:02:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:02:03 --> Input Class Initialized
+INFO - 2025-04-15 08:02:03 --> Language Class Initialized
+INFO - 2025-04-15 08:02:03 --> Loader Class Initialized
+INFO - 2025-04-15 08:02:03 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:02:03 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:02:03 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:02:03 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:02:03 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:02:03 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:02:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:02:03 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:02:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:02:03 --> Cart Class Initialized
+INFO - 2025-04-15 08:02:03 --> Model Class Initialized
+INFO - 2025-04-15 08:02:03 --> Model Class Initialized
+INFO - 2025-04-15 08:02:03 --> Model Class Initialized
+INFO - 2025-04-15 08:02:03 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:32:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:32:03 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:32:03 --> Severity: error --> Exception: Unknown column 'to_date' in 'where clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:03:08 --> Config Class Initialized
+INFO - 2025-04-15 08:03:08 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:03:08 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:03:08 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:03:08 --> URI Class Initialized
+DEBUG - 2025-04-15 08:03:08 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:03:08 --> Router Class Initialized
+INFO - 2025-04-15 08:03:08 --> Output Class Initialized
+INFO - 2025-04-15 08:03:08 --> Security Class Initialized
+DEBUG - 2025-04-15 08:03:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:03:08 --> Input Class Initialized
+INFO - 2025-04-15 08:03:08 --> Language Class Initialized
+INFO - 2025-04-15 08:03:08 --> Loader Class Initialized
+INFO - 2025-04-15 08:03:08 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:03:08 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:03:08 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:03:08 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:03:08 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:03:08 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:03:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:03:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:03:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:03:08 --> Cart Class Initialized
+INFO - 2025-04-15 08:03:08 --> Model Class Initialized
+INFO - 2025-04-15 08:03:08 --> Model Class Initialized
+INFO - 2025-04-15 08:03:08 --> Model Class Initialized
+INFO - 2025-04-15 08:03:08 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:33:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:33:08 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:33:08 --> Severity: error --> Exception: Unknown column 'to_date' in 'where clause' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:03:26 --> Config Class Initialized
+INFO - 2025-04-15 08:03:26 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:03:26 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:03:26 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:03:26 --> URI Class Initialized
+DEBUG - 2025-04-15 08:03:26 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:03:26 --> Router Class Initialized
+INFO - 2025-04-15 08:03:26 --> Output Class Initialized
+INFO - 2025-04-15 08:03:26 --> Security Class Initialized
+DEBUG - 2025-04-15 08:03:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:03:26 --> Input Class Initialized
+INFO - 2025-04-15 08:03:26 --> Language Class Initialized
+INFO - 2025-04-15 08:03:26 --> Loader Class Initialized
+INFO - 2025-04-15 08:03:26 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:03:26 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:03:26 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:03:26 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:03:26 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:03:26 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:03:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:03:26 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:03:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:03:26 --> Cart Class Initialized
+INFO - 2025-04-15 08:03:26 --> Model Class Initialized
+INFO - 2025-04-15 08:03:26 --> Model Class Initialized
+INFO - 2025-04-15 08:03:27 --> Model Class Initialized
+INFO - 2025-04-15 08:03:27 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:33:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:33:27 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 11:33:27 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/header.php
+INFO - 2025-04-15 11:33:27 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/footer.php
+INFO - 2025-04-15 11:33:27 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/index.php
+INFO - 2025-04-15 11:33:27 --> Final output sent to browser
+DEBUG - 2025-04-15 11:33:27 --> Total execution time: 0.1187
+INFO - 2025-04-15 08:05:07 --> Config Class Initialized
+INFO - 2025-04-15 08:05:07 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:05:07 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:05:07 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:05:07 --> URI Class Initialized
+INFO - 2025-04-15 08:05:07 --> Router Class Initialized
+INFO - 2025-04-15 08:05:07 --> Output Class Initialized
+INFO - 2025-04-15 08:05:07 --> Security Class Initialized
+DEBUG - 2025-04-15 08:05:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:05:07 --> Input Class Initialized
+INFO - 2025-04-15 08:05:07 --> Language Class Initialized
+INFO - 2025-04-15 08:05:07 --> Loader Class Initialized
+INFO - 2025-04-15 08:05:07 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:05:07 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:05:07 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:05:07 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:05:07 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:05:07 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:05:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:05:07 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:05:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:05:07 --> Cart Class Initialized
+INFO - 2025-04-15 08:05:07 --> Model Class Initialized
+INFO - 2025-04-15 08:05:07 --> Model Class Initialized
+INFO - 2025-04-15 08:05:07 --> Model Class Initialized
+INFO - 2025-04-15 08:05:07 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:35:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:35:07 --> Report_creation class already loaded. Second attempt ignored.
+ERROR - 2025-04-15 11:35:07 --> Severity: error --> Exception: Unknown column 'm_name' in 'field list' C:\xampp\htdocs\shivbandhan\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2025-04-15 08:08:15 --> Config Class Initialized
+INFO - 2025-04-15 08:08:15 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:08:15 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:08:15 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:08:15 --> URI Class Initialized
+INFO - 2025-04-15 08:08:15 --> Router Class Initialized
+INFO - 2025-04-15 08:08:15 --> Output Class Initialized
+INFO - 2025-04-15 08:08:15 --> Security Class Initialized
+DEBUG - 2025-04-15 08:08:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:08:15 --> Input Class Initialized
+INFO - 2025-04-15 08:08:15 --> Language Class Initialized
+INFO - 2025-04-15 08:08:15 --> Loader Class Initialized
+INFO - 2025-04-15 08:08:15 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:08:15 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:08:15 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:08:15 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:08:15 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:08:15 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:08:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:08:15 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:08:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:08:15 --> Cart Class Initialized
+INFO - 2025-04-15 08:08:15 --> Model Class Initialized
+INFO - 2025-04-15 08:08:15 --> Model Class Initialized
+INFO - 2025-04-15 08:08:15 --> Model Class Initialized
+INFO - 2025-04-15 08:08:15 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:38:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:38:15 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 11:38:15 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/header.php
+INFO - 2025-04-15 11:38:15 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/footer.php
+INFO - 2025-04-15 11:38:15 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/membership.php
+INFO - 2025-04-15 11:38:15 --> Final output sent to browser
+DEBUG - 2025-04-15 11:38:15 --> Total execution time: 0.1288
+INFO - 2025-04-15 08:08:31 --> Config Class Initialized
+INFO - 2025-04-15 08:08:31 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:08:31 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:08:31 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:08:31 --> URI Class Initialized
+INFO - 2025-04-15 08:08:31 --> Router Class Initialized
+INFO - 2025-04-15 08:08:31 --> Output Class Initialized
+INFO - 2025-04-15 08:08:31 --> Security Class Initialized
+DEBUG - 2025-04-15 08:08:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:08:31 --> Input Class Initialized
+INFO - 2025-04-15 08:08:31 --> Language Class Initialized
+INFO - 2025-04-15 08:08:31 --> Loader Class Initialized
+INFO - 2025-04-15 08:08:31 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:08:31 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:08:31 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:08:31 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:08:31 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:08:31 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:08:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:08:31 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:08:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:08:31 --> Cart Class Initialized
+INFO - 2025-04-15 08:08:31 --> Model Class Initialized
+INFO - 2025-04-15 08:08:31 --> Model Class Initialized
+INFO - 2025-04-15 08:08:31 --> Model Class Initialized
+INFO - 2025-04-15 08:08:31 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:38:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:38:31 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 11:38:31 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/header.php
+INFO - 2025-04-15 11:38:31 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/footer.php
+INFO - 2025-04-15 11:38:31 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/contact_us.php
+INFO - 2025-04-15 11:38:31 --> Final output sent to browser
+DEBUG - 2025-04-15 11:38:31 --> Total execution time: 0.1753
+INFO - 2025-04-15 08:08:48 --> Config Class Initialized
+INFO - 2025-04-15 08:08:48 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:08:48 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:08:48 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:08:48 --> URI Class Initialized
+INFO - 2025-04-15 08:08:48 --> Router Class Initialized
+INFO - 2025-04-15 08:08:48 --> Output Class Initialized
+INFO - 2025-04-15 08:08:48 --> Security Class Initialized
+DEBUG - 2025-04-15 08:08:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:08:48 --> Input Class Initialized
+INFO - 2025-04-15 08:08:48 --> Language Class Initialized
+INFO - 2025-04-15 08:08:48 --> Loader Class Initialized
+INFO - 2025-04-15 08:08:48 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:08:48 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:08:48 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:08:48 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:08:48 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:08:48 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:08:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:08:48 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:08:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:08:48 --> Cart Class Initialized
+INFO - 2025-04-15 08:08:48 --> Model Class Initialized
+INFO - 2025-04-15 08:08:48 --> Model Class Initialized
+INFO - 2025-04-15 08:08:48 --> Model Class Initialized
+INFO - 2025-04-15 08:08:48 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:38:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:38:48 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 11:38:48 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/header.php
+INFO - 2025-04-15 11:38:48 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/footer.php
+INFO - 2025-04-15 11:38:48 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/membership.php
+INFO - 2025-04-15 11:38:48 --> Final output sent to browser
+DEBUG - 2025-04-15 11:38:48 --> Total execution time: 0.1669
+INFO - 2025-04-15 08:09:01 --> Config Class Initialized
+INFO - 2025-04-15 08:09:01 --> Hooks Class Initialized
+DEBUG - 2025-04-15 08:09:01 --> UTF-8 Support Enabled
+INFO - 2025-04-15 08:09:01 --> Utf8 Class Initialized
+INFO - 2025-04-15 08:09:01 --> URI Class Initialized
+DEBUG - 2025-04-15 08:09:01 --> No URI present. Default controller set.
+INFO - 2025-04-15 08:09:01 --> Router Class Initialized
+INFO - 2025-04-15 08:09:01 --> Output Class Initialized
+INFO - 2025-04-15 08:09:01 --> Security Class Initialized
+DEBUG - 2025-04-15 08:09:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-04-15 08:09:01 --> Input Class Initialized
+INFO - 2025-04-15 08:09:01 --> Language Class Initialized
+INFO - 2025-04-15 08:09:01 --> Loader Class Initialized
+INFO - 2025-04-15 08:09:01 --> Helper loaded: url_helper
+INFO - 2025-04-15 08:09:01 --> Helper loaded: file_helper
+INFO - 2025-04-15 08:09:01 --> Helper loaded: form_helper
+INFO - 2025-04-15 08:09:01 --> Helper loaded: cookie_helper
+INFO - 2025-04-15 08:09:01 --> Helper loaded: sms_helper
+INFO - 2025-04-15 08:09:01 --> Database Driver Class Initialized
+DEBUG - 2025-04-15 08:09:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2025-04-15 08:09:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2025-04-15 08:09:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-04-15 08:09:01 --> Cart Class Initialized
+INFO - 2025-04-15 08:09:01 --> Model Class Initialized
+INFO - 2025-04-15 08:09:01 --> Model Class Initialized
+INFO - 2025-04-15 08:09:01 --> Model Class Initialized
+INFO - 2025-04-15 08:09:01 --> Controller Class Initialized
+DEBUG - 2025-04-15 11:39:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2025-04-15 11:39:01 --> Report_creation class already loaded. Second attempt ignored.
+INFO - 2025-04-15 11:39:01 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/header.php
+INFO - 2025-04-15 11:39:01 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/footer.php
+INFO - 2025-04-15 11:39:01 --> File loaded: C:\xampp\htdocs\shivbandhan\application\views\site/index.php
+INFO - 2025-04-15 11:39:01 --> Final output sent to browser
+DEBUG - 2025-04-15 11:39:01 --> Total execution time: 0.1714
